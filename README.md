@@ -20,7 +20,7 @@ https://bpplaysguitar.github.io/Bike2Work/
 
 
 ## Description
-More detailed coming...
+Biek2Work allows job-seekers to research large companies found in the stock market, and receive some general information about the company and its stock performance, its headquarters location, and whether there are locations within the user's preferred biking distance in miles so the user would be able to bike to work (or...Bike2Work) at that company.
 
 
 ## Technologies Used
