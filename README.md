@@ -47,9 +47,7 @@ git clone https://github.com/bpplaysguitar/Bike2Work.git,
 6. Edit in your code editor and continue to commit, push changes and perform other Git actions using your repository https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html.
 
 ## Usage
-
-Screenshot image of the project web page
-
+Animation of application in use
 ![](assets/images/bike2work-gif.gif)
 
 ## Credits
