@@ -24,10 +24,10 @@ Biek2Work allows job-seekers to research large companies found in the stock mark
 
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
-Local Storage
+HTML <br>
+CSS <br>
+JavaScript <br>
+Local Storage <br>
 APIs
 
 
