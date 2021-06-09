@@ -1,5 +1,8 @@
 # Bike2Work
-This is an application designed to let people research large companies and find locations of those companies close enough to commute to via bicycle.
+Brian Palay <br>
+612-202-5710 <br>
+brianpalay@gmail.com
+
 
 See the project live here:
 https://bpplaysguitar.github.io/Bike2Work/
